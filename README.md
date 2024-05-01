@@ -1,5 +1,9 @@
 # Llama2-on-CPU-Machine
 
+## App Image
+
+![image](https://github.com/MohammadWasiq0786/Llama2-on-CPU-Machine-Project/blob/main/image.jpg)
+
 # How to run?
 
 ### Steps 1:
